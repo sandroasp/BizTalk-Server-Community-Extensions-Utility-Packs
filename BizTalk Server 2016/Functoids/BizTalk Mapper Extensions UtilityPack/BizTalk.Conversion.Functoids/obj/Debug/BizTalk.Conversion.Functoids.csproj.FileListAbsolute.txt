@@ -1,0 +1,18 @@
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Conversion.Functoids\bin\Debug\BizTalk.Conversion.Functoids.dll
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Conversion.Functoids\bin\Debug\BizTalk.Conversion.Functoids.pdb
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Conversion.Functoids\obj\Debug\BizTalk.Conversion.Functoids.ConversionResource.resources
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Conversion.Functoids\obj\Debug\BizTalk.Conversion.Functoids.csproj.GenerateResource.Cache
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Conversion.Functoids\obj\Debug\BizTalk.Conversion.Functoids.dll
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Conversion.Functoids\obj\Debug\BizTalk.Conversion.Functoids.pdb
+C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Conversion.Functoids\bin\Debug\BizTalk.Conversion.Functoids.dll
+C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Conversion.Functoids\bin\Debug\BizTalk.Conversion.Functoids.pdb
+C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Conversion.Functoids\obj\Debug\BizTalk.Conversion.Functoids.ConversionResource.resources
+C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Conversion.Functoids\obj\Debug\BizTalk.Conversion.Functoids.csproj.GenerateResource.Cache
+C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Conversion.Functoids\obj\Debug\BizTalk.Conversion.Functoids.dll
+C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Conversion.Functoids\obj\Debug\BizTalk.Conversion.Functoids.pdb
+C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Conversion.Functoids\bin\Debug\BizTalk.Conversion.Functoids.dll
+C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Conversion.Functoids\bin\Debug\BizTalk.Conversion.Functoids.pdb
+C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Conversion.Functoids\obj\Debug\BizTalk.Conversion.Functoids.ConversionResource.resources
+C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Conversion.Functoids\obj\Debug\BizTalk.Conversion.Functoids.csproj.GenerateResource.Cache
+C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Conversion.Functoids\obj\Debug\BizTalk.Conversion.Functoids.dll
+C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Conversion.Functoids\obj\Debug\BizTalk.Conversion.Functoids.pdb
