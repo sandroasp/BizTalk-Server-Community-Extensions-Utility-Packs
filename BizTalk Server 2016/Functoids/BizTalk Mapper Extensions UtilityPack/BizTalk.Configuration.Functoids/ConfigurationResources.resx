@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="IDS_BRULESFUNCTOID_BITMAP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\business-rule.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="IDS_BRULESFUNCTOID_DESCRIPTION" xml:space="preserve">
+    <value>This functoid allows you to obtain a definition value from a Vocabulary in the Business Rules Engine.
+Input:
+- string definitionName (Definition Name e.g. Value1)
+- string vocabularyName (Name of Vocabulary i.e. Config)</value>
+    <comment>In the BizTalk Business Rules Engine you can define a vocabulary which is essentially parameters which can be used within the execution of a rules policy. These vocabularies can be accessed from C# code so the idea here is that you could define constants in a vocabulary which you could deploy to the BRE which you would then access from a helper class to get your configuration data.</comment>
+  </data>
+  <data name="IDS_BRULESFUNCTOID_NAME" xml:space="preserve">
+    <value>Rule Engine Config Get</value>
+  </data>
+  <data name="IDS_BRULESFUNCTOID_TOOLTIP" xml:space="preserve">
+    <value>Get definition value from a Vocabulary in the Business Rules Engine</value>
+  </data>
+  <data name="IDS_BTSNTSvcFUNCTOID_BITMAP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\settings-blue.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="IDS_BTSNTSvcFUNCTOID_DESCRIPTION" xml:space="preserve">
+    <value>This functoid allows you to get configuration parameters from BTSNTsvc.exe.config. If there is no section specified, the functoid reads from the AppSettings
+Input:
+- string keyname 
+- string section (can be an empty String)</value>
+    <comment>BizTalk server relies on a configuration file to store certain application information (BTSNTSvc.exe.config or/and BTSNTSvc64.exe.config). 
+BTSNTSvc.exe.config file is a .NET config file, you can put the content what you see inside your app.config file inside the BTSNTSvc.exe.config file at the correct sections.</comment>
+  </data>
+  <data name="IDS_BTSNTSvcFUNCTOID_NAME" xml:space="preserve">
+    <value>BTSNTSvc Config Get</value>
+  </data>
+  <data name="IDS_BTSNTSvcFUNCTOID_TOOLTIP" xml:space="preserve">
+    <value>Get Configuration parameters from BTSNTsvc.exe.config</value>
+  </data>
+  <data name="IDS_ENVVARCONFFUNCTOID_BITMAP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\settings-yellow.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="IDS_ENVVARCONFFUNCTOID_DESCRIPTION" xml:space="preserve">
+    <value>This functoid allows you to get configuration parameters from machine System Environment Variable.
+Input:
+- string key (variable name)</value>
+    <comment>There are two types of environment variables: user environment variables (set for each user) and system environment variables (set for everyone).System and user environment variables are configured by means of the Environment Variables dialog box. This Functoid reads only system environment variables.</comment>
+  </data>
+  <data name="IDS_ENVVARCONFFUNCTOID_TOOLTIP" xml:space="preserve">
+    <value>Returns configuration parameters from machine System Environment Variable</value>
+  </data>
+  <data name="IDS_ENVVARFUNCTOID_NAME" xml:space="preserve">
+    <value>System Environment Variable Get</value>
+  </data>
+  <data name="IDS_FILEFUNCTOID_BITMAP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\page.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="IDS_FILEFUNCTOID_DESCRIPTION" xml:space="preserve">
+    <value>This functoid allows you to get configuration parameters from a custom configuration file.
+Input:
+- string key (variable name)
+- String pathConfigFile (path to the configuration file)</value>
+  </data>
+  <data name="IDS_FILEFUNCTOID_NAME" xml:space="preserve">
+    <value>Custom Config Get</value>
+  </data>
+  <data name="IDS_FILEFUNCTOID_TOOLTIP" xml:space="preserve">
+    <value>Returns configuration parameters from custom config file</value>
+  </data>
+  <data name="IDS_REGISTRYFUNCTOID_BITMAP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\settings-green.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="IDS_REGISTRYFUNCTOID_DESCRIPTION" xml:space="preserve">
+    <value>This functoid allows you to get configuration parameters from Windows Registry:
+- string subKey (The name or path of the subkey to open)
+- String value (The name of the value to retrieve. This string is not case-sensitive)</value>
+    <comment>The Windows Registry is a hierarchical database that stores configuration settings and options on Microsoft Windows operating systems. It contains settings for low-level operating system components as well as the applications running on the platform.</comment>
+  </data>
+  <data name="IDS_REGISTRYFUNCTOID_NAME" xml:space="preserve">
+    <value>Windows Registry Config Get</value>
+  </data>
+  <data name="IDS_REGISTRYFUNCTOID_TOOLTIP" xml:space="preserve">
+    <value>Returns configuration parameters from Windows Registry</value>
+  </data>
+  <data name="IDS_SSOFUNCTOID_BITMAP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\database.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="IDS_SSOFUNCTOID_DESCRIPTION" xml:space="preserve">
+    <value>This functoid allows you to get configuration parameters from SSO Database:
+- string appName (The name of the affiliate application to represent the configuration container to access)
+- String propName (The property name to read)</value>
+    <comment>BizTalk uses single sign on database for various purposes and to store its internal configuration information. It essentially consists of a credential database, a master secret server, and one or more Single Sign-On servers.</comment>
+  </data>
+  <data name="IDS_SSOFUNCTOID_NAME" xml:space="preserve">
+    <value>SSO Config Get</value>
+  </data>
+  <data name="IDS_SSOFUNCTOID_TOOLTIP" xml:space="preserve">
+    <value>Returns configuration parameters from SSO Database</value>
+  </data>
+  <data name="w" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\settings-red.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>
