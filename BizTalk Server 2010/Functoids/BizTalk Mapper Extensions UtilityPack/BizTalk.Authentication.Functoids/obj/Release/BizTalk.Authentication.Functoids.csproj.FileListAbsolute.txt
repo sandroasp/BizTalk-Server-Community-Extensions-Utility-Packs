@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\BizTalk.MapperExtensions.UtilityPack\BizTalk.Authentication.Functoids\bin\Release\BizTalk.Authentication.Functoids.dll
+C:\Users\Administrator\Desktop\BizTalk.MapperExtensions.UtilityPack\BizTalk.Authentication.Functoids\bin\Release\BizTalk.Authentication.Functoids.pdb
+C:\Users\Administrator\Desktop\BizTalk.MapperExtensions.UtilityPack\BizTalk.Authentication.Functoids\obj\Release\BizTalk.Authentication.Functoids.AuthenticationResources.resources
+C:\Users\Administrator\Desktop\BizTalk.MapperExtensions.UtilityPack\BizTalk.Authentication.Functoids\obj\Release\BizTalk.Authentication.Functoids.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\BizTalk.MapperExtensions.UtilityPack\BizTalk.Authentication.Functoids\obj\Release\BizTalk.Authentication.Functoids.dll
+C:\Users\Administrator\Desktop\BizTalk.MapperExtensions.UtilityPack\BizTalk.Authentication.Functoids\obj\Release\BizTalk.Authentication.Functoids.pdb

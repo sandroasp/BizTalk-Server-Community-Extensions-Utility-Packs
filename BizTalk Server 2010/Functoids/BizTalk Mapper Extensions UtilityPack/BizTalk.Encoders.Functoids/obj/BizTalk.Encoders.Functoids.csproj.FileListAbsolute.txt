@@ -1,0 +1,14 @@
+C:\Development\DevScope\BizTalk.MapperExtensions.UtilityPack\BizTalk.Encryption.Functoids\bin\Debug\BizTalk.Encoders.Functoids.dll
+C:\Development\DevScope\BizTalk.MapperExtensions.UtilityPack\BizTalk.Encryption.Functoids\bin\Debug\BizTalk.Encoders.Functoids.pdb
+C:\Development\DevScope\BizTalk.MapperExtensions.UtilityPack\BizTalk.Encryption.Functoids\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\DevScope\BizTalk.MapperExtensions.UtilityPack\BizTalk.Encryption.Functoids\obj\Debug\BizTalk.Encoders.Functoids.EncodersResources.resources
+C:\Development\DevScope\BizTalk.MapperExtensions.UtilityPack\BizTalk.Encryption.Functoids\obj\Debug\BizTalk.Encoders.Functoids.csproj.GenerateResource.Cache
+C:\Development\DevScope\BizTalk.MapperExtensions.UtilityPack\BizTalk.Encryption.Functoids\obj\Debug\BizTalk.Encoders.Functoids.dll
+C:\Development\DevScope\BizTalk.MapperExtensions.UtilityPack\BizTalk.Encryption.Functoids\obj\Debug\BizTalk.Encoders.Functoids.pdb
+C:\Development\DevScope\BizTalk.MapperExtensions.UtilityPack\BizTalk.Encryption.Functoids\bin\Release\BizTalk.Encoders.Functoids.dll
+C:\Development\DevScope\BizTalk.MapperExtensions.UtilityPack\BizTalk.Encryption.Functoids\bin\Release\BizTalk.Encoders.Functoids.pdb
+C:\Development\DevScope\BizTalk.MapperExtensions.UtilityPack\BizTalk.Encryption.Functoids\obj\Release\ResolveAssemblyReference.cache
+C:\Development\DevScope\BizTalk.MapperExtensions.UtilityPack\BizTalk.Encryption.Functoids\obj\Release\BizTalk.Encoders.Functoids.EncodersResources.resources
+C:\Development\DevScope\BizTalk.MapperExtensions.UtilityPack\BizTalk.Encryption.Functoids\obj\Release\BizTalk.Encoders.Functoids.csproj.GenerateResource.Cache
+C:\Development\DevScope\BizTalk.MapperExtensions.UtilityPack\BizTalk.Encryption.Functoids\obj\Release\BizTalk.Encoders.Functoids.dll
+C:\Development\DevScope\BizTalk.MapperExtensions.UtilityPack\BizTalk.Encryption.Functoids\obj\Release\BizTalk.Encoders.Functoids.pdb

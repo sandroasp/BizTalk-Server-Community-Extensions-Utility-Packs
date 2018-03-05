@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\BizTalk.MapperExtensions.UtilityPack\BizTalk.CustomAdvanced.Functoids\bin\Debug\BizTalk.CustomAdvanced.Functoids.dll
+C:\Users\Administrator\Desktop\BizTalk.MapperExtensions.UtilityPack\BizTalk.CustomAdvanced.Functoids\bin\Debug\BizTalk.CustomAdvanced.Functoids.pdb
+C:\Users\Administrator\Desktop\BizTalk.MapperExtensions.UtilityPack\BizTalk.CustomAdvanced.Functoids\obj\Debug\BizTalk.CustomAdvanced.Functoids.CustomAdvancedResources.resources
+C:\Users\Administrator\Desktop\BizTalk.MapperExtensions.UtilityPack\BizTalk.CustomAdvanced.Functoids\obj\Debug\BizTalk.CustomAdvanced.Functoids.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\BizTalk.MapperExtensions.UtilityPack\BizTalk.CustomAdvanced.Functoids\obj\Debug\BizTalk.CustomAdvanced.Functoids.dll
+C:\Users\Administrator\Desktop\BizTalk.MapperExtensions.UtilityPack\BizTalk.CustomAdvanced.Functoids\obj\Debug\BizTalk.CustomAdvanced.Functoids.pdb

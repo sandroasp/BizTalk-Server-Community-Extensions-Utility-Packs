@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\BizTalk.MapperExtensions.UtilityPack\BizTalk.CRM.Functoids\bin\Debug\BizTalk.MapExtention.LookupFunctoid.dll
+C:\Users\Administrator\Desktop\BizTalk.MapperExtensions.UtilityPack\BizTalk.CRM.Functoids\bin\Debug\BizTalk.MapExtention.LookupFunctoid.pdb
+C:\Users\Administrator\Desktop\BizTalk.MapperExtensions.UtilityPack\BizTalk.CRM.Functoids\obj\Debug\BizTalk.MapExtention.LookupFunctoid.FunctoidResource.resources
+C:\Users\Administrator\Desktop\BizTalk.MapperExtensions.UtilityPack\BizTalk.CRM.Functoids\obj\Debug\BizTalk.MapExtention.LookupFunctoid.Resources.FunctoidResource.resources
+C:\Users\Administrator\Desktop\BizTalk.MapperExtensions.UtilityPack\BizTalk.CRM.Functoids\obj\Debug\BizTalk.CRM.Functoids.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\BizTalk.MapperExtensions.UtilityPack\BizTalk.CRM.Functoids\obj\Debug\BizTalk.MapExtention.LookupFunctoid.dll
+C:\Users\Administrator\Desktop\BizTalk.MapperExtensions.UtilityPack\BizTalk.CRM.Functoids\obj\Debug\BizTalk.MapExtention.LookupFunctoid.pdb

@@ -1,0 +1,7 @@
+C:\Development\DevScope\BizTalk.DynamicGenerators.Functoids\BizTalk.Encryption.Functoids\bin\Debug\BizTalk.Encryption.Functoids.dll
+C:\Development\DevScope\BizTalk.DynamicGenerators.Functoids\BizTalk.Encryption.Functoids\bin\Debug\BizTalk.Encryption.Functoids.pdb
+C:\Development\DevScope\BizTalk.DynamicGenerators.Functoids\BizTalk.Encryption.Functoids\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\DevScope\BizTalk.DynamicGenerators.Functoids\BizTalk.Encryption.Functoids\obj\Debug\BizTalk.Encryption.Functoids.EncryptionResources.resources
+C:\Development\DevScope\BizTalk.DynamicGenerators.Functoids\BizTalk.Encryption.Functoids\obj\Debug\BizTalk.Encryption.Functoids.csproj.GenerateResource.Cache
+C:\Development\DevScope\BizTalk.DynamicGenerators.Functoids\BizTalk.Encryption.Functoids\obj\Debug\BizTalk.Encryption.Functoids.dll
+C:\Development\DevScope\BizTalk.DynamicGenerators.Functoids\BizTalk.Encryption.Functoids\obj\Debug\BizTalk.Encryption.Functoids.pdb

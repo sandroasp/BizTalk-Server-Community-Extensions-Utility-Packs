@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FunctoidDeployment>
+	<DeploySettings isDevelopmentEnvironment="false" bizTalkVersion="2013">	
+		<ExcludeList>
+			<Item>BizTalk.CustomAdvanced.Functoids.dll</Item>
+			<Item>BizTalk.String.Functoids.dll</Item>
+		</ExcludeList>		
+	</DeploySettings>
+</FunctoidDeployment>

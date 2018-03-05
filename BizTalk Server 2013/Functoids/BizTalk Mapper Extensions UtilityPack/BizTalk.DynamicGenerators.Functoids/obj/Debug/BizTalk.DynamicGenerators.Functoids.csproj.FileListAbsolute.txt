@@ -1,0 +1,7 @@
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.DynamicGenerators.Functoids\bin\Debug\BizTalk.DynamicGenerators.Functoids.dll
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.DynamicGenerators.Functoids\bin\Debug\BizTalk.DynamicGenerators.Functoids.pdb
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.DynamicGenerators.Functoids\obj\Debug\BizTalk.DynamicGenerators.Functoids.DynamicGenerator.resources
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.DynamicGenerators.Functoids\obj\Debug\BizTalk.DynamicGenerators.Functoids.csproj.GenerateResource.Cache
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.DynamicGenerators.Functoids\obj\Debug\BizTalk.DynamicGenerators.Functoids.dll
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.DynamicGenerators.Functoids\obj\Debug\BizTalk.DynamicGenerators.Functoids.pdb
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.DynamicGenerators.Functoids\obj\Debug\BizTalk.DynamicGenerators.Functoids.csprojResolveAssemblyReference.cache

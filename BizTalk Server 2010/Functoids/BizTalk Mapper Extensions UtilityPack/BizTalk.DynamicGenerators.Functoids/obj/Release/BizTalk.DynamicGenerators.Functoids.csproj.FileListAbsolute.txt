@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\BizTalk.MapperExtensions.UtilityPack\BizTalk.DynamicGenerators.Functoids\bin\Release\BizTalk.DynamicGenerators.Functoids.dll
+C:\Users\Administrator\Desktop\BizTalk.MapperExtensions.UtilityPack\BizTalk.DynamicGenerators.Functoids\bin\Release\BizTalk.DynamicGenerators.Functoids.pdb
+C:\Users\Administrator\Desktop\BizTalk.MapperExtensions.UtilityPack\BizTalk.DynamicGenerators.Functoids\obj\Release\BizTalk.DynamicGenerators.Functoids.DynamicGenerator.resources
+C:\Users\Administrator\Desktop\BizTalk.MapperExtensions.UtilityPack\BizTalk.DynamicGenerators.Functoids\obj\Release\BizTalk.DynamicGenerators.Functoids.dll
+C:\Users\Administrator\Desktop\BizTalk.MapperExtensions.UtilityPack\BizTalk.DynamicGenerators.Functoids\obj\Release\BizTalk.DynamicGenerators.Functoids.pdb
+C:\Users\Administrator\Desktop\BizTalk.MapperExtensions.UtilityPack\BizTalk.DynamicGenerators.Functoids\obj\Release\BizTalk.DynamicGenerators.Functoids.csproj.GenerateResource.Cache

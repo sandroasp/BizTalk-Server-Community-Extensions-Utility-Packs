@@ -1,0 +1,9 @@
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.CRM.Functoids\obj\Debug\BizTalk.MapExtention.LookupFunctoid.FunctoidResource.resources
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.CRM.Functoids\obj\Debug\BizTalk.MapExtention.LookupFunctoid.Resources.FunctoidResource.resources
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.CRM.Functoids\obj\Debug\BizTalk.CRM.Functoids.csproj.GenerateResource.Cache
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.CRM.Functoids\bin\Debug\BizTalk.CRM.Functoids.dll
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.CRM.Functoids\bin\Debug\BizTalk.CRM.Functoids.pdb
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.CRM.Functoids\obj\Debug\BizTalk.MapExtention.LookupFunctoid.MsCrmMapHelperResource.resources
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.CRM.Functoids\obj\Debug\BizTalk.CRM.Functoids.dll
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.CRM.Functoids\obj\Debug\BizTalk.CRM.Functoids.pdb
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.CRM.Functoids\obj\Debug\BizTalk.CRM.Functoids.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.XPath.Functoids\bin\Debug\BizTalk.XPath.Functoids.dll
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.XPath.Functoids\bin\Debug\BizTalk.XPath.Functoids.pdb
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.XPath.Functoids\obj\Debug\ValueBlue.BizTalk.MapperExtensions.Resources.resources
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.XPath.Functoids\obj\Debug\BizTalk.XPath.Functoids.csproj.GenerateResource.Cache
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.XPath.Functoids\obj\Debug\BizTalk.XPath.Functoids.dll
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.XPath.Functoids\obj\Debug\BizTalk.XPath.Functoids.pdb
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.XPath.Functoids\obj\Debug\BizTalk.XPath.Functoids.csprojResolveAssemblyReference.cache

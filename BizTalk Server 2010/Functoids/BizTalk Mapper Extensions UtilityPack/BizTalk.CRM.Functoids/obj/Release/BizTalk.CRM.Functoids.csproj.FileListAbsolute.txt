@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\BizTalk.MapperExtensions.UtilityPack\BizTalk.CRM.Functoids\bin\Release\BizTalk.MapExtention.LookupFunctoid.dll
+C:\Users\Administrator\Desktop\BizTalk.MapperExtensions.UtilityPack\BizTalk.CRM.Functoids\bin\Release\BizTalk.MapExtention.LookupFunctoid.pdb
+C:\Users\Administrator\Desktop\BizTalk.MapperExtensions.UtilityPack\BizTalk.CRM.Functoids\obj\Release\BizTalk.MapExtention.LookupFunctoid.FunctoidResource.resources
+C:\Users\Administrator\Desktop\BizTalk.MapperExtensions.UtilityPack\BizTalk.CRM.Functoids\obj\Release\BizTalk.MapExtention.LookupFunctoid.Resources.FunctoidResource.resources
+C:\Users\Administrator\Desktop\BizTalk.MapperExtensions.UtilityPack\BizTalk.CRM.Functoids\obj\Release\BizTalk.MapExtention.LookupFunctoid.dll
+C:\Users\Administrator\Desktop\BizTalk.MapperExtensions.UtilityPack\BizTalk.CRM.Functoids\obj\Release\BizTalk.MapExtention.LookupFunctoid.pdb
+C:\Users\Administrator\Desktop\BizTalk.MapperExtensions.UtilityPack\BizTalk.CRM.Functoids\obj\Release\BizTalk.CRM.Functoids.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\BizTalk.MapperExtensions.UtilityPack\BizTalk.CRM.Functoids\obj\Release\BizTalk.CRM.Functoids.csproj.GenerateResource.Cache

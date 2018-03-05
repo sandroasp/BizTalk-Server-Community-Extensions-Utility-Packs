@@ -1,0 +1,7 @@
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Authentication.Functoids\bin\Debug\BizTalk.Authentication.Functoids.dll
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Authentication.Functoids\bin\Debug\BizTalk.Authentication.Functoids.pdb
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Authentication.Functoids\obj\Debug\BizTalk.Authentication.Functoids.AuthenticationResources.resources
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Authentication.Functoids\obj\Debug\BizTalk.Authentication.Functoids.csproj.GenerateResource.Cache
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Authentication.Functoids\obj\Debug\BizTalk.Authentication.Functoids.dll
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Authentication.Functoids\obj\Debug\BizTalk.Authentication.Functoids.pdb
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Authentication.Functoids\obj\Debug\BizTalk.Authentication.Functoids.csprojResolveAssemblyReference.cache
