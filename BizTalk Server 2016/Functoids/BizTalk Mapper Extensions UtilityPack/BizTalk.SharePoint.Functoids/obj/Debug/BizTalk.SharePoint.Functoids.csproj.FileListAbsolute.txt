@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.SharePoint.Functoids\bin\Debug\BizTalk.SharePoint.Functoids.dll
 C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.SharePoint.Functoids\bin\Debug\BizTalk.SharePoint.Functoids.pdb
 C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.SharePoint.Functoids\obj\Debug\BizTalk.SharePoint.Functoids.csprojResolveAssemblyReference.cache
@@ -14,3 +15,21 @@ C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.ShareP
 C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.SharePoint.Functoids\obj\Debug\BizTalk.SharePoint.Functoids.csproj.GenerateResource.Cache
 C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.SharePoint.Functoids\obj\Debug\BizTalk.SharePoint.Functoids.dll
 C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.SharePoint.Functoids\obj\Debug\BizTalk.SharePoint.Functoids.pdb
+=======
+C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.SharePoint.Functoids\bin\Debug\BizTalk.SharePoint.Functoids.dll
+C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.SharePoint.Functoids\bin\Debug\BizTalk.SharePoint.Functoids.pdb
+C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.SharePoint.Functoids\obj\Debug\BizTalk.SharePoint.Functoids.csprojResolveAssemblyReference.cache
+C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.SharePoint.Functoids\obj\Debug\BizTalk.SharePoint.Functoids.SharePointResources.resources
+C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.SharePoint.Functoids\obj\Debug\BizTalk.SharePoint.Functoids.csproj.GenerateResource.Cache
+C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.SharePoint.Functoids\obj\Debug\BizTalk.SharePoint.Functoids.dll
+C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.SharePoint.Functoids\obj\Debug\BizTalk.SharePoint.Functoids.pdb
+C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.SharePoint.Functoids\bin\Debug\BizTalk.SharePoint.Functoids.dll
+C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.SharePoint.Functoids\bin\Debug\BizTalk.SharePoint.Functoids.pdb
+C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.SharePoint.Functoids\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.SharePoint.Functoids\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.SharePoint.Functoids\obj\Debug\BizTalk.SharePoint.Functoids.csprojResolveAssemblyReference.cache
+C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.SharePoint.Functoids\obj\Debug\BizTalk.SharePoint.Functoids.SharePointResources.resources
+C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.SharePoint.Functoids\obj\Debug\BizTalk.SharePoint.Functoids.csproj.GenerateResource.Cache
+C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.SharePoint.Functoids\obj\Debug\BizTalk.SharePoint.Functoids.dll
+C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.SharePoint.Functoids\obj\Debug\BizTalk.SharePoint.Functoids.pdb
+>>>>>>> origin/master

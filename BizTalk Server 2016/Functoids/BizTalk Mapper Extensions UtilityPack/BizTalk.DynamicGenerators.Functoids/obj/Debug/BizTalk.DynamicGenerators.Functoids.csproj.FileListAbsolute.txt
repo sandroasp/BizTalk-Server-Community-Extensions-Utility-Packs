@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.DynamicGenerators.Functoids\bin\Debug\BizTalk.DynamicGenerators.Functoids.dll
 C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.DynamicGenerators.Functoids\bin\Debug\BizTalk.DynamicGenerators.Functoids.pdb
 C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.DynamicGenerators.Functoids\obj\Debug\BizTalk.DynamicGenerators.Functoids.DynamicGenerator.resources
@@ -18,3 +19,25 @@ C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Dynami
 C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.DynamicGenerators.Functoids\obj\Debug\BizTalk.DynamicGenerators.Functoids.csproj.GenerateResource.Cache
 C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.DynamicGenerators.Functoids\obj\Debug\BizTalk.DynamicGenerators.Functoids.dll
 C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.DynamicGenerators.Functoids\obj\Debug\BizTalk.DynamicGenerators.Functoids.pdb
+=======
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.DynamicGenerators.Functoids\bin\Debug\BizTalk.DynamicGenerators.Functoids.dll
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.DynamicGenerators.Functoids\bin\Debug\BizTalk.DynamicGenerators.Functoids.pdb
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.DynamicGenerators.Functoids\obj\Debug\BizTalk.DynamicGenerators.Functoids.DynamicGenerator.resources
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.DynamicGenerators.Functoids\obj\Debug\BizTalk.DynamicGenerators.Functoids.csproj.GenerateResource.Cache
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.DynamicGenerators.Functoids\obj\Debug\BizTalk.DynamicGenerators.Functoids.dll
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.DynamicGenerators.Functoids\obj\Debug\BizTalk.DynamicGenerators.Functoids.pdb
+C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.DynamicGenerators.Functoids\bin\Debug\BizTalk.DynamicGenerators.Functoids.dll
+C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.DynamicGenerators.Functoids\bin\Debug\BizTalk.DynamicGenerators.Functoids.pdb
+C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.DynamicGenerators.Functoids\obj\Debug\BizTalk.DynamicGenerators.Functoids.csprojResolveAssemblyReference.cache
+C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.DynamicGenerators.Functoids\obj\Debug\BizTalk.DynamicGenerators.Functoids.DynamicGenerator.resources
+C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.DynamicGenerators.Functoids\obj\Debug\BizTalk.DynamicGenerators.Functoids.csproj.GenerateResource.Cache
+C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.DynamicGenerators.Functoids\obj\Debug\BizTalk.DynamicGenerators.Functoids.dll
+C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.DynamicGenerators.Functoids\obj\Debug\BizTalk.DynamicGenerators.Functoids.pdb
+C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.DynamicGenerators.Functoids\bin\Debug\BizTalk.DynamicGenerators.Functoids.dll
+C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.DynamicGenerators.Functoids\bin\Debug\BizTalk.DynamicGenerators.Functoids.pdb
+C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.DynamicGenerators.Functoids\obj\Debug\BizTalk.DynamicGenerators.Functoids.csprojResolveAssemblyReference.cache
+C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.DynamicGenerators.Functoids\obj\Debug\BizTalk.DynamicGenerators.Functoids.DynamicGenerator.resources
+C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.DynamicGenerators.Functoids\obj\Debug\BizTalk.DynamicGenerators.Functoids.csproj.GenerateResource.Cache
+C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.DynamicGenerators.Functoids\obj\Debug\BizTalk.DynamicGenerators.Functoids.dll
+C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.DynamicGenerators.Functoids\obj\Debug\BizTalk.DynamicGenerators.Functoids.pdb
+>>>>>>> origin/master
