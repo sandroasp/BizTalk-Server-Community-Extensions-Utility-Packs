@@ -1,0 +1,13 @@
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.CustomAdvanced.Functoids\bin\Debug\BizTalk.CustomAdvanced.Functoids.dll
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.CustomAdvanced.Functoids\bin\Debug\BizTalk.CustomAdvanced.Functoids.pdb
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.CustomAdvanced.Functoids\obj\Debug\BizTalk.CustomAdvanced.Functoids.CustomAdvancedResources.resources
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.CustomAdvanced.Functoids\obj\Debug\BizTalk.CustomAdvanced.Functoids.csproj.GenerateResource.Cache
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.CustomAdvanced.Functoids\obj\Debug\BizTalk.CustomAdvanced.Functoids.dll
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.CustomAdvanced.Functoids\obj\Debug\BizTalk.CustomAdvanced.Functoids.pdb
+C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.CustomAdvanced.Functoids\bin\Debug\BizTalk.CustomAdvanced.Functoids.dll
+C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.CustomAdvanced.Functoids\bin\Debug\BizTalk.CustomAdvanced.Functoids.pdb
+C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.CustomAdvanced.Functoids\obj\Debug\BizTalk.CustomAdvanced.Functoids.csprojResolveAssemblyReference.cache
+C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.CustomAdvanced.Functoids\obj\Debug\BizTalk.CustomAdvanced.Functoids.CustomAdvancedResources.resources
+C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.CustomAdvanced.Functoids\obj\Debug\BizTalk.CustomAdvanced.Functoids.csproj.GenerateResource.Cache
+C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.CustomAdvanced.Functoids\obj\Debug\BizTalk.CustomAdvanced.Functoids.dll
+C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.CustomAdvanced.Functoids\obj\Debug\BizTalk.CustomAdvanced.Functoids.pdb

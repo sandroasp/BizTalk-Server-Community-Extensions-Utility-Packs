@@ -1,0 +1,17 @@
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.CRM.Functoids\bin\Debug\BizTalk.MapExtention.LookupFunctoid.dll
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.CRM.Functoids\bin\Debug\BizTalk.MapExtention.LookupFunctoid.pdb
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.CRM.Functoids\obj\Debug\BizTalk.MapExtention.LookupFunctoid.FunctoidResource.resources
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.CRM.Functoids\obj\Debug\BizTalk.MapExtention.LookupFunctoid.Resources.FunctoidResource.resources
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.CRM.Functoids\obj\Debug\BizTalk.CRM.Functoids.csproj.GenerateResource.Cache
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.CRM.Functoids\obj\Debug\BizTalk.MapExtention.LookupFunctoid.dll
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.CRM.Functoids\obj\Debug\BizTalk.MapExtention.LookupFunctoid.pdb
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.CRM.Functoids\obj\Debug\BizTalk.CRM.Functoids.csprojResolveAssemblyReference.cache
+C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.CRM.Functoids\bin\Debug\BizTalk.MapExtention.LookupFunctoid.dll
+C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.CRM.Functoids\bin\Debug\BizTalk.MapExtention.LookupFunctoid.pdb
+C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.CRM.Functoids\obj\Debug\BizTalk.CRM.Functoids.csprojResolveAssemblyReference.cache
+C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.CRM.Functoids\obj\Debug\BizTalk.CRM.Functoids.csproj.GenerateResource.Cache
+C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.CRM.Functoids\obj\Debug\BizTalk.MapExtention.LookupFunctoid.dll
+C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.CRM.Functoids\obj\Debug\BizTalk.MapExtention.LookupFunctoid.pdb
+C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.CRM.Functoids\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.CRM.Functoids\obj\Debug\BizTalk.MapExtention.LookupFunctoid.CRMLookupResources.resources
+C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.CRM.Functoids\obj\Debug\BizTalk.MapExtention.LookupFunctoid.MsCrmMapHelperResource.resources

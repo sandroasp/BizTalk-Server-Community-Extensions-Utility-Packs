@@ -1,0 +1,13 @@
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Configuration.Functoids\bin\Debug\BizTalk.Configuration.Functoids.dll
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Configuration.Functoids\bin\Debug\BizTalk.Configuration.Functoids.pdb
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Configuration.Functoids\obj\Debug\BizTalk.Configuration.Functoids.ConfigurationResources.resources
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Configuration.Functoids\obj\Debug\BizTalk.Configuration.Functoids.csproj.GenerateResource.Cache
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Configuration.Functoids\obj\Debug\BizTalk.Configuration.Functoids.dll
+C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Configuration.Functoids\obj\Debug\BizTalk.Configuration.Functoids.pdb
+C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Configuration.Functoids\bin\Debug\BizTalk.Configuration.Functoids.dll
+C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Configuration.Functoids\bin\Debug\BizTalk.Configuration.Functoids.pdb
+C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Configuration.Functoids\obj\Debug\BizTalk.Configuration.Functoids.csprojResolveAssemblyReference.cache
+C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Configuration.Functoids\obj\Debug\BizTalk.Configuration.Functoids.ConfigurationResources.resources
+C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Configuration.Functoids\obj\Debug\BizTalk.Configuration.Functoids.csproj.GenerateResource.Cache
+C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Configuration.Functoids\obj\Debug\BizTalk.Configuration.Functoids.dll
+C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Configuration.Functoids\obj\Debug\BizTalk.Configuration.Functoids.pdb
