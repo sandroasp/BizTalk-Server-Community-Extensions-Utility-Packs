@@ -1,0 +1,9 @@
+C:\Development\PET Projects\MessageQueuingTool\MessageQueuingTool\bin\Debug\MessageQueuingTool.exe.config
+C:\Development\PET Projects\MessageQueuingTool\MessageQueuingTool\obj\Debug\MessageQueuingTool.Form1.resources
+C:\Development\PET Projects\MessageQueuingTool\MessageQueuingTool\obj\Debug\MessageQueuingTool.Properties.Resources.resources
+C:\Development\PET Projects\MessageQueuingTool\MessageQueuingTool\obj\Debug\MessageQueuingTool.csproj.GenerateResource.Cache
+C:\Development\PET Projects\MessageQueuingTool\MessageQueuingTool\bin\Debug\MessageQueuingTool.exe
+C:\Development\PET Projects\MessageQueuingTool\MessageQueuingTool\bin\Debug\MessageQueuingTool.pdb
+C:\Development\PET Projects\MessageQueuingTool\MessageQueuingTool\obj\Debug\MessageQueuingTool.exe
+C:\Development\PET Projects\MessageQueuingTool\MessageQueuingTool\obj\Debug\MessageQueuingTool.pdb
+C:\Development\PET Projects\MessageQueuingTool\MessageQueuingTool\obj\Debug\MessageQueuingTool.csprojResolveAssemblyReference.cache
