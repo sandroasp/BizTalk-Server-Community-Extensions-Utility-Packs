@@ -1,0 +1,134 @@
+C:\Development\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.csproj.ResolveComReference.cache
+C:\Development\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.FunctoidProjectWizardForm.resources
+C:\Development\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.WzPageGeneralSetup.resources
+C:\Development\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.WzPageParametersConn.resources
+C:\Development\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.WzPageResourceSetup.resources
+C:\Development\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.WzPageResourceSetup2.resources
+C:\Development\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.WzPageSummary.resources
+C:\Development\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.WzPageWelcome.resources
+C:\Development\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\GenerateResource.read.1.tlog
+C:\Development\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\GenerateResource.write.1.tlog
+C:\Development\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\BizTalk.MapperExtensions.Functoid.Wizard.dll
+C:\Development\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\BizTalk.MapperExtensions.Functoid.Wizard.pdb
+C:\Development\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\BizTalk.MapperExtensions.Functoid.Wizard.xml
+C:\Development\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.dll
+C:\Development\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.pdb
+C:\Development\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\BizTalk.MapperExtensions.Functoid.Wizard.tlb
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.csproj.ResolveComReference.cache
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.FunctoidProjectWizardForm.resources
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.WzPageGeneralSetup.resources
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.WzPageParametersConn.resources
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.WzPageResourceSetup.resources
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.WzPageResourceSetup2.resources
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.WzPageSummary.resources
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.WzPageWelcome.resources
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.dll
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.pdb
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\BizTalk.MapperExtensions.Functoid.Wizard.dll
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\BizTalk.MapperExtensions.Functoid.Wizard.pdb
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\BizTalk.MapperExtensions.Functoid.Wizard.xml
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\BizTalk.MapperExtensions.Functoid.Wizard.tlb
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\Templates\AssemblyInfo.$cs
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\Templates\Functoid.$cs
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\Templates\AssemblyInfo.$vb
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\Templates\Functoid.$vb
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\Templates\Functoid.$csproj
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\ResGen.read.1.tlog
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\ResGen.write.1.tlog
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\Templates\AssemblyInfo.$cs
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\Templates\Functoid.$cs
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\Templates\AssemblyInfo.$vb
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\Templates\Functoid.$vb
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\Templates\Functoid.$csproj
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\BizTalk.MapperExtensions.Functoid.Wizard.dll
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\BizTalk.MapperExtensions.Functoid.Wizard.pdb
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\BizTalk.MapperExtensions.Functoid.Wizard.xml
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\BizTalk.MapperExtensions.Functoid.Wizard.tlb
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.csproj.ResolveComReference.cache
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.FunctoidProjectWizardForm.resources
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.WzPageGeneralSetup.resources
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.WzPageParametersConn.resources
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.WzPageResourceSetup.resources
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.WzPageResourceSetup2.resources
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.WzPageSummary.resources
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.WzPageWelcome.resources
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.dll
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.pdb
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\BizTalk.MapperExtensions.Functoid.Wizard.ico
+C:\Users\rmachado\Desktop\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\Templates\Functoid.$vbproj
+C:\Development\_Under Development\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\Templates\AssemblyInfo.$cs
+C:\Development\_Under Development\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\Templates\Functoid.$cs
+C:\Development\_Under Development\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\Templates\AssemblyInfo.$vb
+C:\Development\_Under Development\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\Templates\Functoid.$vb
+C:\Development\_Under Development\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\Templates\Functoid.$csproj
+C:\Development\_Under Development\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\Templates\Functoid.$vbproj
+C:\Development\_Under Development\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\BizTalk.MapperExtensions.Functoid.Wizard.dll
+C:\Development\_Under Development\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\BizTalk.MapperExtensions.Functoid.Wizard.pdb
+C:\Development\_Under Development\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\BizTalk.MapperExtensions.Functoid.Wizard.xml
+C:\Development\_Under Development\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\BizTalk.MapperExtensions.Functoid.Wizard.tlb
+C:\Development\_Under Development\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\_Under Development\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.csproj.ResolveComReference.cache
+C:\Development\_Under Development\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.FunctoidProjectWizardForm.resources
+C:\Development\_Under Development\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.WzPageGeneralSetup.resources
+C:\Development\_Under Development\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.WzPageParametersConn.resources
+C:\Development\_Under Development\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.WzPageResourceSetup.resources
+C:\Development\_Under Development\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.WzPageResourceSetup2.resources
+C:\Development\_Under Development\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.WzPageSummary.resources
+C:\Development\_Under Development\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.WzPageWelcome.resources
+C:\Development\_Under Development\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\GenerateResource.read.1.tlog
+C:\Development\_Under Development\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\GenerateResource.write.1.tlog
+C:\Development\_Under Development\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.dll
+C:\Development\_Under Development\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.pdb
+C:\Users\Administrator\Desktop\INST\INST_BizTalk.Functoid.Wizard_v1.0\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\Templates\AssemblyInfo.$cs
+C:\Users\Administrator\Desktop\INST\INST_BizTalk.Functoid.Wizard_v1.0\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\Templates\Functoid.$cs
+C:\Users\Administrator\Desktop\INST\INST_BizTalk.Functoid.Wizard_v1.0\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\Templates\AssemblyInfo.$vb
+C:\Users\Administrator\Desktop\INST\INST_BizTalk.Functoid.Wizard_v1.0\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\Templates\Functoid.$vb
+C:\Users\Administrator\Desktop\INST\INST_BizTalk.Functoid.Wizard_v1.0\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\Templates\Functoid.$csproj
+C:\Users\Administrator\Desktop\INST\INST_BizTalk.Functoid.Wizard_v1.0\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\Templates\Functoid.$vbproj
+C:\Users\Administrator\Desktop\INST\INST_BizTalk.Functoid.Wizard_v1.0\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\BizTalk.MapperExtensions.Functoid.Wizard.dll
+C:\Users\Administrator\Desktop\INST\INST_BizTalk.Functoid.Wizard_v1.0\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\BizTalk.MapperExtensions.Functoid.Wizard.pdb
+C:\Users\Administrator\Desktop\INST\INST_BizTalk.Functoid.Wizard_v1.0\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\BizTalk.MapperExtensions.Functoid.Wizard.xml
+C:\Users\Administrator\Desktop\INST\INST_BizTalk.Functoid.Wizard_v1.0\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\BizTalk.MapperExtensions.Functoid.Wizard.tlb
+C:\Users\Administrator\Desktop\INST\INST_BizTalk.Functoid.Wizard_v1.0\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\INST\INST_BizTalk.Functoid.Wizard_v1.0\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\INST\INST_BizTalk.Functoid.Wizard_v1.0\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.FunctoidProjectWizardForm.resources
+C:\Users\Administrator\Desktop\INST\INST_BizTalk.Functoid.Wizard_v1.0\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.WzPageGeneralSetup.resources
+C:\Users\Administrator\Desktop\INST\INST_BizTalk.Functoid.Wizard_v1.0\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.WzPageParametersConn.resources
+C:\Users\Administrator\Desktop\INST\INST_BizTalk.Functoid.Wizard_v1.0\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.WzPageResourceSetup.resources
+C:\Users\Administrator\Desktop\INST\INST_BizTalk.Functoid.Wizard_v1.0\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.WzPageResourceSetup2.resources
+C:\Users\Administrator\Desktop\INST\INST_BizTalk.Functoid.Wizard_v1.0\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.WzPageSummary.resources
+C:\Users\Administrator\Desktop\INST\INST_BizTalk.Functoid.Wizard_v1.0\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.WzPageWelcome.resources
+C:\Users\Administrator\Desktop\INST\INST_BizTalk.Functoid.Wizard_v1.0\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\INST\INST_BizTalk.Functoid.Wizard_v1.0\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\INST\INST_BizTalk.Functoid.Wizard_v1.0\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.dll
+C:\Users\Administrator\Desktop\INST\INST_BizTalk.Functoid.Wizard_v1.0\BizTalk.MapperExtensions.Functoid.Wizard_WORKS\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.pdb
+C:\Users\xdev002.DEVPTASP\Desktop\BizTalk MapperExtensions Functoid Wizard\C#\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\Templates\AssemblyInfo.$cs
+C:\Users\xdev002.DEVPTASP\Desktop\BizTalk MapperExtensions Functoid Wizard\C#\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\Templates\Functoid.$cs
+C:\Users\xdev002.DEVPTASP\Desktop\BizTalk MapperExtensions Functoid Wizard\C#\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\Templates\AssemblyInfo.$vb
+C:\Users\xdev002.DEVPTASP\Desktop\BizTalk MapperExtensions Functoid Wizard\C#\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\Templates\Functoid.$vb
+C:\Users\xdev002.DEVPTASP\Desktop\BizTalk MapperExtensions Functoid Wizard\C#\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\Templates\Functoid.$csproj
+C:\Users\xdev002.DEVPTASP\Desktop\BizTalk MapperExtensions Functoid Wizard\C#\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\Templates\Functoid.$vbproj
+C:\Users\xdev002.DEVPTASP\Desktop\BizTalk MapperExtensions Functoid Wizard\C#\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\BizTalk.MapperExtensions.Functoid.Wizard.dll
+C:\Users\xdev002.DEVPTASP\Desktop\BizTalk MapperExtensions Functoid Wizard\C#\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\BizTalk.MapperExtensions.Functoid.Wizard.pdb
+C:\Users\xdev002.DEVPTASP\Desktop\BizTalk MapperExtensions Functoid Wizard\C#\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\BizTalk.MapperExtensions.Functoid.Wizard.xml
+C:\Users\xdev002.DEVPTASP\Desktop\BizTalk MapperExtensions Functoid Wizard\C#\BizTalk.MapperExtensions.Functoid.Wizard\bin\Debug\BizTalk.MapperExtensions.Functoid.Wizard.tlb
+C:\Users\xdev002.DEVPTASP\Desktop\BizTalk MapperExtensions Functoid Wizard\C#\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\xdev002.DEVPTASP\Desktop\BizTalk MapperExtensions Functoid Wizard\C#\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.csproj.ResolveComReference.cache
+C:\Users\xdev002.DEVPTASP\Desktop\BizTalk MapperExtensions Functoid Wizard\C#\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.FunctoidProjectWizardForm.resources
+C:\Users\xdev002.DEVPTASP\Desktop\BizTalk MapperExtensions Functoid Wizard\C#\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.WzPageGeneralSetup.resources
+C:\Users\xdev002.DEVPTASP\Desktop\BizTalk MapperExtensions Functoid Wizard\C#\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.WzPageParametersConn.resources
+C:\Users\xdev002.DEVPTASP\Desktop\BizTalk MapperExtensions Functoid Wizard\C#\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.WzPageResourceSetup.resources
+C:\Users\xdev002.DEVPTASP\Desktop\BizTalk MapperExtensions Functoid Wizard\C#\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.WzPageResourceSetup2.resources
+C:\Users\xdev002.DEVPTASP\Desktop\BizTalk MapperExtensions Functoid Wizard\C#\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.WzPageSummary.resources
+C:\Users\xdev002.DEVPTASP\Desktop\BizTalk MapperExtensions Functoid Wizard\C#\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.WzPageWelcome.resources
+C:\Users\xdev002.DEVPTASP\Desktop\BizTalk MapperExtensions Functoid Wizard\C#\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\xdev002.DEVPTASP\Desktop\BizTalk MapperExtensions Functoid Wizard\C#\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\xdev002.DEVPTASP\Desktop\BizTalk MapperExtensions Functoid Wizard\C#\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.dll
+C:\Users\xdev002.DEVPTASP\Desktop\BizTalk MapperExtensions Functoid Wizard\C#\BizTalk.MapperExtensions.Functoid.Wizard\obj\Debug\BizTalk.MapperExtensions.Functoid.Wizard.pdb

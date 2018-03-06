@@ -1,0 +1,58 @@
+using Microsoft.BizTalk.BaseFunctoids; 
+using System.Reflection;  
+using System.Globalization;  
+using System.Resources;
+using System;
+
+namespace [!output NAMESPACE]
+{
+	public class [!output CLASSNAME] : BaseFunctoid
+	{
+		static string ResourceName = "[!output NAMESPACE].[!output CLASSNAME]";
+		static ResourceManager resmgr = new ResourceManager(ResourceName, Assembly.GetExecutingAssembly());
+
+		public [!output CLASSNAME]():base()
+		{
+			int functoidID;
+			// This has to be a number greater than 6000
+			functoidID = System.Convert.ToInt32(resmgr.GetString("FunctoidId"));
+			this.ID = functoidID; 
+
+			// Set Resource strings, bitmaps
+			SetupResourceAssembly(ResourceName, Assembly.GetExecutingAssembly());
+			SetName("FunctoidName");                  
+			SetTooltip("FunctoidToolTip");
+			SetDescription("FunctoidDescription");
+			SetBitmap("FunctoidBitmap");
+
+			// Minimum and maximum parameters that the functoid accepts 
+			this.SetMinParams([!output MINPARAMS]);
+			this.SetMaxParams([!output MAXPARAMS]);
+
+			/// Function name that needs to be called when this Functoid is invoked.
+			/// Put this in GAC.
+			SetExternalFunctionName(GetType().Assembly.FullName,
+				"[!output NAMESPACE].[!output CLASSNAME]", "Execute");
+
+			// Category for this functoid.
+			this.Category = FunctoidCategory.[!output CATEGORY];
+
+			// Input and output Connection type
+			this.OutputConnectionType = ConnectionType.[!output OUTPUTCONNTYPE];
+			AddInputConnectionType(ConnectionType.[!output INPUTCONNTYPE]);
+		}
+
+		public [!output RETURNTYPE] Execute([!output PARAMETERS])
+		{
+			ResourceManager resmgr = new ResourceManager(ResourceName, Assembly.GetExecutingAssembly());
+			try
+			{
+				// TODO: Implement Functoid Logic
+			}
+			catch (Exception e)
+			{
+				throw new Exception(resmgr.GetString("FunctoidException"), e);
+			}
+		}
+	}
+}

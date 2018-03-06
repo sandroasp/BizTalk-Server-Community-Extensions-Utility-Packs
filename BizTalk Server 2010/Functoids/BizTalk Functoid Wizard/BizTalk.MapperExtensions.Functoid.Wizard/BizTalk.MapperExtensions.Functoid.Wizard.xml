@@ -1,0 +1,391 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BizTalk.MapperExtensions.Functoid.Wizard</name>
+    </assembly>
+    <members>
+        <member name="T:BizTalk.MapperExtensions.Functoid.Wizard.FunctoidProjectWizardForm">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:BizTalk.MapperExtensions.Functoid.Wizard.FunctoidProjectWizardForm.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:BizTalk.MapperExtensions.Functoid.Wizard.FunctoidProjectWizardForm.AdjustPageCount(System.Int32,System.Boolean)">
+            <summary>
+            
+            </summary>
+            <param name="pageCount"></param>
+            <param name="countingUp"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BizTalk.MapperExtensions.Functoid.Wizard.FunctoidProjectWizardForm.AddWizardResult(System.Object,BizTalk.MapperExtensions.Functoid.Wizard.PropertyPairEvent)">
+            <summary>
+            
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:BizTalk.MapperExtensions.Functoid.Wizard.FunctoidProjectWizardForm.AddProperty(System.Collections.Hashtable,BizTalk.MapperExtensions.Functoid.Wizard.PropertyPairEvent)">
+            <summary>
+            
+            </summary>
+            <param name="nvc"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:BizTalk.MapperExtensions.Functoid.Wizard.FunctoidProjectWizardForm.AddProperty(System.Collections.Specialized.NameValueCollection,BizTalk.MapperExtensions.Functoid.Wizard.PropertyPairEvent)">
+            <summary>
+            
+            </summary>
+            <param name="nvc"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:BizTalk.MapperExtensions.Functoid.Wizard.FunctoidProjectWizardForm.AddFunctoidParameters(System.Object,BizTalk.MapperExtensions.Functoid.Wizard.PropertyPairEvent)">
+            <summary>
+            
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:BizTalk.MapperExtensions.Functoid.Wizard.FunctoidProjectWizardForm.CreateSummary">
+            <summary>
+            Creates a summary based on the properties assembled by the wizard. To
+            be shown on the endpage of the wizard.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="F:BizTalk.MapperExtensions.Functoid.Wizard.FunctoidProjectWizardForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:BizTalk.MapperExtensions.Functoid.Wizard.FunctoidProjectWizardForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+        </member>
+        <member name="M:BizTalk.MapperExtensions.Functoid.Wizard.FunctoidProjectWizardForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="P:BizTalk.MapperExtensions.Functoid.Wizard.FunctoidProjectWizardForm.WizardResults">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:BizTalk.MapperExtensions.Functoid.Wizard.FunctoidProjectWizardForm.FunctoidParameters">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:BizTalk.MapperExtensions.Functoid.Wizard.WizardControlInterface">
+            <summary>
+            Summary description for WizardControlInterface.
+            </summary>
+        </member>
+        <member name="M:BizTalk.MapperExtensions.Functoid.Wizard.WzPageResourceSetup.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+        </member>
+        <member name="M:BizTalk.MapperExtensions.Functoid.Wizard.WzPageResourceSetup.OnAddWizardResult(BizTalk.MapperExtensions.Functoid.Wizard.PropertyPairEvent)">
+            <summary>
+            The protected OnRaiseProperty method raises the event by invoking 
+            the delegates. The sender is always this, the current instance 
+            of the class.
+            </summary>
+            <param name="e"></param>
+        </member>
+        <member name="M:BizTalk.MapperExtensions.Functoid.Wizard.WzPageResourceSetup.ResetAllErrProviders">
+            <summary>
+            Resets all of the errorproviders when anything succeeds
+            </summary>
+        </member>
+        <member name="M:BizTalk.MapperExtensions.Functoid.Wizard.WzPageResourceSetup.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:BizTalk.MapperExtensions.Functoid.Wizard.WizardValues">
+            <summary>
+            List of constants to find values in the namevaluecollection
+            </summary>
+        </member>
+        <member name="F:BizTalk.MapperExtensions.Functoid.Wizard.WizardValues.ClassName">
+            <summary>
+            defines the classname, as entered by the user
+            </summary>
+        </member>
+        <member name="F:BizTalk.MapperExtensions.Functoid.Wizard.WizardValues.Namespace">
+            <summary>
+            defines the namespace in which the component should reside, as entered by the user
+            </summary>
+        </member>
+        <member name="F:BizTalk.MapperExtensions.Functoid.Wizard.WizardValues.FunctoidID">
+            <summary>
+            defines the Functoid ID, as entered by the user
+            </summary>
+        </member>
+        <member name="F:BizTalk.MapperExtensions.Functoid.Wizard.WizardValues.FunctoidName">
+            <summary>
+            defines the Functoid name, as entered by the user
+            </summary>
+        </member>
+        <member name="F:BizTalk.MapperExtensions.Functoid.Wizard.WizardValues.FunctoidDescription">
+            <summary>
+            defines the description (single-line) of the Functoid, as entered by the user
+            </summary>
+        </member>
+        <member name="F:BizTalk.MapperExtensions.Functoid.Wizard.WizardValues.FunctoidToolTip">
+            <summary>
+            defines the ToolTip of the Functoid, as entered by the user
+            </summary>
+        </member>
+        <member name="F:BizTalk.MapperExtensions.Functoid.Wizard.WizardValues.FunctoidBitmap">
+            <summary>
+            defines the Bitmap of the Functoid, as entered by the user
+            </summary>
+        </member>
+        <member name="F:BizTalk.MapperExtensions.Functoid.Wizard.WizardValues.FunctoidCategory">
+            <summary>
+            defines the Functoid Category, as entered by the user
+            </summary>
+        </member>
+        <member name="F:BizTalk.MapperExtensions.Functoid.Wizard.WizardValues.FunctoidReturnType">
+            <summary>
+            defines the ReturnType of the Functoid, as entered by the user
+            </summary>
+        </member>
+        <member name="F:BizTalk.MapperExtensions.Functoid.Wizard.WizardValues.FunctoidOutputConnType">
+            <summary>
+            defines the OutputConnType of the Functoid, as entered by the user
+            </summary>
+        </member>
+        <member name="F:BizTalk.MapperExtensions.Functoid.Wizard.WizardValues.FunctoidInputConnType">
+            <summary>
+            defines the InputConnType of the Functoid, as entered by the user
+            </summary>
+        </member>
+        <member name="F:BizTalk.MapperExtensions.Functoid.Wizard.WizardValues.FunctoidExceptionText">
+            <summary>
+            defines the ExceptionText of the Functoid, as entered by the user
+            </summary>
+        </member>
+        <member name="F:BizTalk.MapperExtensions.Functoid.Wizard.WizardValues.FunctoidMinParams">
+            <summary>
+            defines the MinParams of the Functoid, as entered by the user
+            </summary>
+        </member>
+        <member name="F:BizTalk.MapperExtensions.Functoid.Wizard.WizardValues.FunctoidMaxParams">
+            <summary>
+            defines the MaxParams of the Functoid, as entered by the user
+            </summary>
+        </member>
+        <member name="F:BizTalk.MapperExtensions.Functoid.Wizard.WizardValues.CodeLanguage">
+            <summary>
+            defines the programming languages in which the functoid project should
+            be implemented, as choosen by the user
+            </summary>
+        </member>
+        <member name="T:BizTalk.MapperExtensions.Functoid.Wizard.PropertyPairEvent">
+            <summary>
+            PropertyPairEvent class holds name and value for
+            transportation in events. The remove field indicates
+            that the value must be removed from the resultcollection
+            </summary>
+        </member>
+        <member name="T:BizTalk.MapperExtensions.Functoid.Wizard.CodeLanguages">
+            <summary>
+            defines the supported languages we generate sourcecode for
+            </summary>
+        </member>
+        <member name="T:BizTalk.MapperExtensions.Functoid.Wizard.FunctoidProjectWizard">
+            <summary>
+            Class (com-object) called by Visual Studio .NET to start a new Functoid project. 
+            </summary>
+        </member>
+        <member name="M:BizTalk.MapperExtensions.Functoid.Wizard.FunctoidProjectWizard.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:BizTalk.MapperExtensions.Functoid.Wizard.FunctoidProjectWizard.Execute(System.Object,System.Int32,System.Object[]@,System.Object[]@,EnvDTE.wizardResult@)">
+            <summary>
+            Main function for wizard project. Calls the wizard-
+            form and then delegates control to the CreateSolution function
+            </summary>
+            <param name="Application"></param>
+            <param name="hwndOwner"></param>
+            <param name="contextParams"></param>
+            <param name="CustomParams"></param>
+            <param name="retval"></param>
+        </member>
+        <member name="M:BizTalk.MapperExtensions.Functoid.Wizard.FunctoidProjectWizard.CreateSolution(EnvDTE._DTE,System.Object[])">
+            <summary>
+            Creates the solution and calls the functions to create the projects
+            </summary>
+            <param name="IDEObject"></param>
+            <param name="contextParams"></param>
+        </member>
+        <member name="M:BizTalk.MapperExtensions.Functoid.Wizard.FunctoidProjectWizard.CreateFunctoidProject">
+            <summary>
+            Creates the designtime project and adds the appropriate files to the
+            project.
+            </summary>
+        </member>
+        <member name="M:BizTalk.MapperExtensions.Functoid.Wizard.WzPageGeneralSetup.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+        </member>
+        <member name="M:BizTalk.MapperExtensions.Functoid.Wizard.WzPageGeneralSetup.OnAddWizardResult(BizTalk.MapperExtensions.Functoid.Wizard.PropertyPairEvent)">
+            <summary>
+            The protected OnRaiseProperty method raises the event by invoking 
+            the delegates. The sender is always this, the current instance 
+            of the class.
+            </summary>
+            <param name="e"></param>
+        </member>
+        <member name="M:BizTalk.MapperExtensions.Functoid.Wizard.WzPageGeneralSetup.ResetAllErrProviders">
+            <summary>
+            Resets all of the errorproviders when anything succeeds
+            </summary>
+        </member>
+        <member name="M:BizTalk.MapperExtensions.Functoid.Wizard.WzPageGeneralSetup.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:BizTalk.MapperExtensions.Functoid.Wizard.ResourceTemplate">
+            <summary>
+            Summary description for RenderHelper.
+            </summary>
+        </member>
+        <member name="M:BizTalk.MapperExtensions.Functoid.Wizard.ResourceTemplate.Render(System.String,System.String,System.String,System.String)">
+            <summary>
+            Renders the template files into a compilable sourcefile.
+            Replaces code-markers with values taken from the wizard pages. 
+            </summary>
+            <param name="resourceName">Name of the code-template</param>
+            <param name="newFileName">Name of the file to be generated</param>
+            <param name="relativePath">Relative path of the resource inside this project</param>
+            <param name="destDir">The dir where the file will be placed</param>
+            <returns></returns>
+        </member>
+        <member name="M:BizTalk.MapperExtensions.Functoid.Wizard.ResourceTemplate.GetResource(System.String)">
+            <summary>
+            Helper to get resource from manifest.
+            </summary>
+            <param name="resource">Full resource name</param>
+            <returns>Resource value</returns>
+        </member>
+        <member name="M:BizTalk.MapperExtensions.Functoid.Wizard.WzPageWelcome.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+        </member>
+        <member name="M:BizTalk.MapperExtensions.Functoid.Wizard.WzPageWelcome.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:BizTalk.MapperExtensions.Functoid.Wizard.Forms.WzPageSummary">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:BizTalk.MapperExtensions.Functoid.Wizard.Forms.WzPageSummary.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:BizTalk.MapperExtensions.Functoid.Wizard.Forms.WzPageSummary.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:BizTalk.MapperExtensions.Functoid.Wizard.Forms.WzPageSummary.labelNavigation_Text">
+            <summary>
+              Looks up a localized string similar to To create the Functoid project, click Finish..
+            </summary>
+        </member>
+        <member name="P:BizTalk.MapperExtensions.Functoid.Wizard.Forms.WzPageSummary.labelTitle_Text">
+            <summary>
+              Looks up a localized string similar to BizTalk Server 2009 Functoid Wizard.
+            </summary>
+        </member>
+        <member name="P:BizTalk.MapperExtensions.Functoid.Wizard.Forms.WzPageSummary.textBoxSubTitle_Text">
+            <summary>
+              Looks up a localized string similar to The Functoid Wizard will create the following projects:.
+            </summary>
+        </member>
+        <member name="M:BizTalk.MapperExtensions.Functoid.Wizard.WzPageSummary.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+        </member>
+        <member name="M:BizTalk.MapperExtensions.Functoid.Wizard.WzPageSummary.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:BizTalk.MapperExtensions.Functoid.Wizard.WzPageParametersConn.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+        </member>
+        <member name="M:BizTalk.MapperExtensions.Functoid.Wizard.WzPageParametersConn.OnAddWizardResult(BizTalk.MapperExtensions.Functoid.Wizard.PropertyPairEvent)">
+            <summary>
+            The protected OnRaiseProperty method raises the event by invoking 
+            the delegates. The sender is always this, the current instance 
+            of the class.
+            </summary>
+            <param name="e"></param>
+        </member>
+        <member name="M:BizTalk.MapperExtensions.Functoid.Wizard.WzPageParametersConn.ResetAllErrProviders">
+            <summary>
+            Resets all of the errorproviders when anything succeeds
+            </summary>
+        </member>
+        <member name="M:BizTalk.MapperExtensions.Functoid.Wizard.WzPageParametersConn.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:BizTalk.MapperExtensions.Functoid.Wizard.WzPageResourceSetup2.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+        </member>
+        <member name="M:BizTalk.MapperExtensions.Functoid.Wizard.WzPageResourceSetup2.OnAddWizardResult(BizTalk.MapperExtensions.Functoid.Wizard.PropertyPairEvent)">
+            <summary>
+            The protected OnRaiseProperty method raises the event by invoking 
+            the delegates. The sender is always this, the current instance 
+            of the class.
+            </summary>
+            <param name="e"></param>
+        </member>
+        <member name="M:BizTalk.MapperExtensions.Functoid.Wizard.WzPageResourceSetup2.ResetAllErrProviders">
+            <summary>
+            Resets all of the errorproviders when anything succeeds
+            </summary>
+        </member>
+        <member name="M:BizTalk.MapperExtensions.Functoid.Wizard.WzPageResourceSetup2.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+    </members>
+</doc>

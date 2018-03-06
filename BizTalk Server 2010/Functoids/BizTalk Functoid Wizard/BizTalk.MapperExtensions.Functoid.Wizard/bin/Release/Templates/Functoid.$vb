@@ -1,0 +1,56 @@
+Imports Microsoft.BizTalk.BaseFunctoids
+Imports System.Reflection
+Imports System.Globalization
+Imports System.Resources
+Imports System
+
+Namespace [!output NAMESPACE]
+
+    Public Class [!output CLASSNAME]
+        Inherits BaseFunctoid
+
+        Private Shared ResourceName As String = "[!output NAMESPACE].[!output CLASSNAME]"
+        Private Shared resmgr As New ResourceManager(ResourceName, [Assembly].GetExecutingAssembly())
+
+        Public Sub New()
+            MyBase.New()
+
+            Dim functoidID As Integer
+            ' This has to be a number greater than 6000
+            functoidID = System.Convert.ToInt32(resmgr.GetString("FunctoidId"))
+            Me.ID = functoidID
+
+            ' Set Resource strings, bitmaps
+            SetupResourceAssembly(ResourceName, [Assembly].GetExecutingAssembly())
+            SetName("FunctoidName")
+            SetTooltip("FunctoidToolTip")
+            SetDescription("FunctoidDescription")
+            SetBitmap("FunctoidBitmap")
+
+            ' Minimum and maximum parameters that the functoid accepts 
+            Me.SetMinParams([!output MINPARAMS])
+            Me.SetMaxParams([!output MAXPARAMS])
+
+            ' Function name that needs to be called when this Functoid is invoked.
+            ' Put this in GAC.
+            SetExternalFunctionName([GetType]().Assembly.FullName, "[!output NAMESPACE].[!output CLASSNAME]", "Execute")
+
+            ' Category for this functoid.
+            Me.Category = FunctoidCategory.[!output CATEGORY]
+
+            ' Input and output Connection type
+            Me.OutputConnectionType = ConnectionType.[!output OUTPUTCONNTYPE]
+            AddInputConnectionType(ConnectionType.[!output INPUTCONNTYPE])
+        End Sub 'New
+
+        Public Function Execute([!output PARAMETERS]) As [!output RETURNTYPE]
+            Dim resmgr As New ResourceManager(ResourceName, [Assembly].GetExecutingAssembly())
+            Try
+                ' TODO: Implement Functoid Logic
+
+            Catch e As Exception
+                Throw New Exception(resmgr.GetString("FunctoidException"), e)
+            End Try
+        End Function 'Execute
+    End Class '[!output CLASSNAME]
+End Namespace '[!output NAMESPACE]
