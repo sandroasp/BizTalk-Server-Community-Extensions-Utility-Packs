@@ -1,43 +1,6 @@
-<<<<<<< HEAD
-C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Encoders.Functoids\bin\Debug\BizTalk.Encoders.Functoids.dll
-C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Encoders.Functoids\bin\Debug\BizTalk.Encoders.Functoids.pdb
-C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Encoders.Functoids\obj\Debug\BizTalk.Encoders.Functoids.EncodersResources.resources
-C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Encoders.Functoids\obj\Debug\BizTalk.Encoders.Functoids.csproj.GenerateResource.Cache
-C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Encoders.Functoids\obj\Debug\BizTalk.Encoders.Functoids.dll
-C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Encoders.Functoids\obj\Debug\BizTalk.Encoders.Functoids.pdb
-C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Encoders.Functoids\bin\Debug\BizTalk.Encoders.Functoids.dll
-C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Encoders.Functoids\bin\Debug\BizTalk.Encoders.Functoids.pdb
-C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Encoders.Functoids\obj\Debug\BizTalk.Encoders.Functoids.csprojResolveAssemblyReference.cache
-C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Encoders.Functoids\obj\Debug\BizTalk.Encoders.Functoids.EncodersResources.resources
-C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Encoders.Functoids\obj\Debug\BizTalk.Encoders.Functoids.csproj.GenerateResource.Cache
-C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Encoders.Functoids\obj\Debug\BizTalk.Encoders.Functoids.dll
-C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Encoders.Functoids\obj\Debug\BizTalk.Encoders.Functoids.pdb
-C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Encoders.Functoids\bin\Debug\BizTalk.Encoders.Functoids.dll
-C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Encoders.Functoids\bin\Debug\BizTalk.Encoders.Functoids.pdb
-C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Encoders.Functoids\obj\Debug\BizTalk.Encoders.Functoids.csprojResolveAssemblyReference.cache
-C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Encoders.Functoids\obj\Debug\BizTalk.Encoders.Functoids.EncodersResources.resources
-C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Encoders.Functoids\obj\Debug\BizTalk.Encoders.Functoids.csproj.GenerateResource.Cache
-C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Encoders.Functoids\obj\Debug\BizTalk.Encoders.Functoids.dll
-C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Encoders.Functoids\obj\Debug\BizTalk.Encoders.Functoids.pdb
-=======
-C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Encoders.Functoids\bin\Debug\BizTalk.Encoders.Functoids.dll
-C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Encoders.Functoids\bin\Debug\BizTalk.Encoders.Functoids.pdb
-C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Encoders.Functoids\obj\Debug\BizTalk.Encoders.Functoids.EncodersResources.resources
-C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Encoders.Functoids\obj\Debug\BizTalk.Encoders.Functoids.csproj.GenerateResource.Cache
-C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Encoders.Functoids\obj\Debug\BizTalk.Encoders.Functoids.dll
-C:\Development\CodePlex\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Encoders.Functoids\obj\Debug\BizTalk.Encoders.Functoids.pdb
-C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Encoders.Functoids\bin\Debug\BizTalk.Encoders.Functoids.dll
-C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Encoders.Functoids\bin\Debug\BizTalk.Encoders.Functoids.pdb
-C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Encoders.Functoids\obj\Debug\BizTalk.Encoders.Functoids.csprojResolveAssemblyReference.cache
-C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Encoders.Functoids\obj\Debug\BizTalk.Encoders.Functoids.EncodersResources.resources
-C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Encoders.Functoids\obj\Debug\BizTalk.Encoders.Functoids.csproj.GenerateResource.Cache
-C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Encoders.Functoids\obj\Debug\BizTalk.Encoders.Functoids.dll
-C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.Encoders.Functoids\obj\Debug\BizTalk.Encoders.Functoids.pdb
-C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Encoders.Functoids\bin\Debug\BizTalk.Encoders.Functoids.dll
-C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Encoders.Functoids\bin\Debug\BizTalk.Encoders.Functoids.pdb
-C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Encoders.Functoids\obj\Debug\BizTalk.Encoders.Functoids.csprojResolveAssemblyReference.cache
-C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Encoders.Functoids\obj\Debug\BizTalk.Encoders.Functoids.EncodersResources.resources
-C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Encoders.Functoids\obj\Debug\BizTalk.Encoders.Functoids.csproj.GenerateResource.Cache
-C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Encoders.Functoids\obj\Debug\BizTalk.Encoders.Functoids.dll
-C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.Encoders.Functoids\obj\Debug\BizTalk.Encoders.Functoids.pdb
->>>>>>> origin/master
+C:\Repos\BizTalk-Server-Community-Extensions-Utility-Packs\BizTalk Server 2016\Functoids\BizTalk Mapper Extensions UtilityPack\BizTalk.Encoders.Functoids\bin\Debug\BizTalk.Encoders.Functoids.dll
+C:\Repos\BizTalk-Server-Community-Extensions-Utility-Packs\BizTalk Server 2016\Functoids\BizTalk Mapper Extensions UtilityPack\BizTalk.Encoders.Functoids\bin\Debug\BizTalk.Encoders.Functoids.pdb
+C:\Repos\BizTalk-Server-Community-Extensions-Utility-Packs\BizTalk Server 2016\Functoids\BizTalk Mapper Extensions UtilityPack\BizTalk.Encoders.Functoids\obj\Debug\BizTalk.Encoders.Functoids.EncodersResources.resources
+C:\Repos\BizTalk-Server-Community-Extensions-Utility-Packs\BizTalk Server 2016\Functoids\BizTalk Mapper Extensions UtilityPack\BizTalk.Encoders.Functoids\obj\Debug\BizTalk.Encoders.Functoids.csproj.GenerateResource.Cache
+C:\Repos\BizTalk-Server-Community-Extensions-Utility-Packs\BizTalk Server 2016\Functoids\BizTalk Mapper Extensions UtilityPack\BizTalk.Encoders.Functoids\obj\Debug\BizTalk.Encoders.Functoids.dll
+C:\Repos\BizTalk-Server-Community-Extensions-Utility-Packs\BizTalk Server 2016\Functoids\BizTalk Mapper Extensions UtilityPack\BizTalk.Encoders.Functoids\obj\Debug\BizTalk.Encoders.Functoids.pdb

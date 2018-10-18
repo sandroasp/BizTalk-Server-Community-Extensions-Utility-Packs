@@ -1,27 +1,6 @@
-<<<<<<< HEAD
-C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.XPath.Functoids\bin\Debug\BizTalk.XPath.Functoids.dll
-C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.XPath.Functoids\bin\Debug\BizTalk.XPath.Functoids.pdb
-C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.XPath.Functoids\obj\Debug\ValueBlue.BizTalk.MapperExtensions.Resources.resources
-C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.XPath.Functoids\obj\Debug\BizTalk.XPath.Functoids.csproj.GenerateResource.Cache
-C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.XPath.Functoids\obj\Debug\BizTalk.XPath.Functoids.dll
-C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.XPath.Functoids\obj\Debug\BizTalk.XPath.Functoids.pdb
-C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.XPath.Functoids\bin\Debug\BizTalk.XPath.Functoids.dll
-C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.XPath.Functoids\bin\Debug\BizTalk.XPath.Functoids.pdb
-C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.XPath.Functoids\obj\Debug\ValueBlue.BizTalk.MapperExtensions.Resources.resources
-C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.XPath.Functoids\obj\Debug\BizTalk.XPath.Functoids.csproj.GenerateResource.Cache
-C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.XPath.Functoids\obj\Debug\BizTalk.XPath.Functoids.dll
-C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.XPath.Functoids\obj\Debug\BizTalk.XPath.Functoids.pdb
-=======
-C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.XPath.Functoids\bin\Debug\BizTalk.XPath.Functoids.dll
-C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.XPath.Functoids\bin\Debug\BizTalk.XPath.Functoids.pdb
-C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.XPath.Functoids\obj\Debug\ValueBlue.BizTalk.MapperExtensions.Resources.resources
-C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.XPath.Functoids\obj\Debug\BizTalk.XPath.Functoids.csproj.GenerateResource.Cache
-C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.XPath.Functoids\obj\Debug\BizTalk.XPath.Functoids.dll
-C:\Development\CodePlex\btsmapextutilitypack\BizTalk.MapperExtensions.UtilityPack-2013\BizTalk.XPath.Functoids\obj\Debug\BizTalk.XPath.Functoids.pdb
-C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.XPath.Functoids\bin\Debug\BizTalk.XPath.Functoids.dll
-C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.XPath.Functoids\bin\Debug\BizTalk.XPath.Functoids.pdb
-C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.XPath.Functoids\obj\Debug\ValueBlue.BizTalk.MapperExtensions.Resources.resources
-C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.XPath.Functoids\obj\Debug\BizTalk.XPath.Functoids.csproj.GenerateResource.Cache
-C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.XPath.Functoids\obj\Debug\BizTalk.XPath.Functoids.dll
-C:\Development\Pet Projects\BizTalk Mapper Extensions UtilityPack\BizTalk.XPath.Functoids\obj\Debug\BizTalk.XPath.Functoids.pdb
->>>>>>> origin/master
+C:\Repos\BizTalk-Server-Community-Extensions-Utility-Packs\BizTalk Server 2016\Functoids\BizTalk Mapper Extensions UtilityPack\BizTalk.XPath.Functoids\obj\Debug\ValueBlue.BizTalk.MapperExtensions.Resources.resources
+C:\Repos\BizTalk-Server-Community-Extensions-Utility-Packs\BizTalk Server 2016\Functoids\BizTalk Mapper Extensions UtilityPack\BizTalk.XPath.Functoids\obj\Debug\BizTalk.XPath.Functoids.csproj.GenerateResource.Cache
+C:\Repos\BizTalk-Server-Community-Extensions-Utility-Packs\BizTalk Server 2016\Functoids\BizTalk Mapper Extensions UtilityPack\BizTalk.XPath.Functoids\bin\Debug\BizTalk.XPath.Functoids.dll
+C:\Repos\BizTalk-Server-Community-Extensions-Utility-Packs\BizTalk Server 2016\Functoids\BizTalk Mapper Extensions UtilityPack\BizTalk.XPath.Functoids\bin\Debug\BizTalk.XPath.Functoids.pdb
+C:\Repos\BizTalk-Server-Community-Extensions-Utility-Packs\BizTalk Server 2016\Functoids\BizTalk Mapper Extensions UtilityPack\BizTalk.XPath.Functoids\obj\Debug\BizTalk.XPath.Functoids.dll
+C:\Repos\BizTalk-Server-Community-Extensions-Utility-Packs\BizTalk Server 2016\Functoids\BizTalk Mapper Extensions UtilityPack\BizTalk.XPath.Functoids\obj\Debug\BizTalk.XPath.Functoids.pdb
